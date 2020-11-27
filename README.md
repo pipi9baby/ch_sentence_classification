@@ -33,4 +33,4 @@ train_bert.py跑下去應該會動
 
 ### Requirement
 
-我忘記惹 ＧＧ惹
+我忘記惹 ＧＧ惹 QAQ
