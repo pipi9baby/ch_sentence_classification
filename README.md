@@ -7,7 +7,7 @@
 + train_bert.py 訓練的
 + visualization.py 要秀圖的備用code，目前沒發揮功用
 + bertviz 把bert裡面的weight視覺化的工具[這裡](https://github.com/jessevig/bertviz) 有更多code
-+ 我想看看我的BERT模型裡面Weight長怎樣的code
++ head_view_bert.ipynb 我想看看我的BERT模型裡面Weight長怎樣的code
 
 ### 使用
 去 [class EmergencyDataset(Dataset)](https://github.com/pipi9baby/ch_sentence_classification/blob/30c9d0f6a413f488ae662f726ac0e019c0333fba/train_bert.py#L43) 改一下dataloader
