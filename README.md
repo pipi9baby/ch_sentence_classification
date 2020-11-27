@@ -10,7 +10,7 @@
 + 我想看看我的BERT模型裡面Weight長怎樣的code
 
 ### 使用
-去 [class EmergencyDataset(Dataset):](!https://github.com/pipi9baby/ch_sentence_classification/blob/30c9d0f6a413f488ae662f726ac0e019c0333fba/train_bert.py#L43) 改一下dataloader
+去 [class EmergencyDataset(Dataset)](!https://github.com/pipi9baby/ch_sentence_classification/blob/30c9d0f6a413f488ae662f726ac0e019c0333fba/train_bert.py#L43) 改一下dataloader
 再怎麼樣也要改一下`self.categories` 裡的類別拔
 
 去[train_bert.py](!https://github.com/pipi9baby/ch_sentence_classification/blob/30c9d0f6a413f488ae662f726ac0e019c0333fba/train_bert.py#L101)改一下hyperparameter之類der
